@@ -1,0 +1,14 @@
+#main-display {
+    background-image: url("https://picsum.photos/800/600");
+    background-size: cover;
+
+}
+
+h1 {
+
+    mix-blend-mode: color-burn;
+}
+
+h5 {
+    mix-blend-mode: color-burn;
+}
